@@ -1,5 +1,7 @@
 # Computer-Science
 this is my first git hub
+<br> 
+By Naveen Sharma
 <br>
 # 📚 System Architecture and Computing Concepts (Annotated Format)
 
