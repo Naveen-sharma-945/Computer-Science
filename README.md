@@ -10,6 +10,8 @@ By Naveen Sharma
 - Components: CPU, RAM, motherboard, storage, I/O interfaces
 <br>
   1- Motherboard architecture (chipsets, buses)
+  <br>
+
   2- CPU socket compatibility
   3- PCIe, USB, SATA, NVMe
   4- Thermal management
